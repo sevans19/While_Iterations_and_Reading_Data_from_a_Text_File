@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While_Iterations_and_Reading_Data_from_a_Text_File", "While_Iterations_and_Reading_Data_from_a_Text_File\While_Iterations_and_Reading_Data_from_a_Text_File.csproj", "{ED9DF543-A278-48EC-A1FD-72EB9475DD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9DF543-A278-48EC-A1FD-72EB9475DD7D}.Debug|x86.ActiveCfg = Debug|x86
+		{ED9DF543-A278-48EC-A1FD-72EB9475DD7D}.Debug|x86.Build.0 = Debug|x86
+		{ED9DF543-A278-48EC-A1FD-72EB9475DD7D}.Release|x86.ActiveCfg = Release|x86
+		{ED9DF543-A278-48EC-A1FD-72EB9475DD7D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
